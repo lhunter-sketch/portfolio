@@ -19,7 +19,7 @@ h3 {
     color: var(--dark-blue);
     padding-top: 10px;
     font-size: 16;
-    font-weight: 750;
+    font-weight: 650;
 }
 
 body {
@@ -264,7 +264,7 @@ button:focus-visible,
     margin-bottom: 0;
     color: var(--white);
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 450;
 }
 
 .project-type {
